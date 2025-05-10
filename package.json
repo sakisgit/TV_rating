@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "parcel": "^2.14.4"
+  },
+  "name": "starratings",
+  "version": "1.0.0",
+  "description": "Star Ratings Project with JS",
+  "main": " ",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sakis Bog",
+  "license": "MIT"
+}

@@ -1,0 +1,24 @@
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+# Files that might appear on external disks
+.fseventsd
+.TemporaryItems
+.apdisk
+
+# VSCode settings (αν χρησιμοποιείς VSCode)
+.vscode/
+
+# Αν έχεις προσωρινά αρχεία:
+.cache/
+.parcel-cache/
+
+# Parcel output
+dist/
+
+# Node dependencies
+node_modules/
