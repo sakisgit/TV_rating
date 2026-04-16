@@ -1,13 +1,18 @@
 {
+  "source": "index.html",
   "dependencies": {
     "parcel": "^2.14.4"
   },
   "name": "starratings",
   "version": "1.0.0",
   "description": "Star Ratings Project with JS",
-  "main": " ",
-  "devDependencies": {},
+  "devDependencies": {
+    "cssnano": "^7.1.5",
+    "postcss": "^8.5.10"
+  },
   "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sakis Bog",
